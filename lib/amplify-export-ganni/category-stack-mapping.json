@@ -3,5 +3,10 @@
     "category": "api",
     "resourceName": "ganni",
     "service": "AppSync"
+  },
+  {
+    "category": "auth",
+    "resourceName": "ganni6c152f7c",
+    "service": "Cognito"
   }
 ]
